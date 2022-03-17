@@ -5,5 +5,5 @@
 <div align="center">
   
   ![C badge](https://img.shields.io/badge/C-9dff65?style=flat&logo=C&logoColor=f5f103)
-  ![Python badge](https://img.shields.io/badge/Python-eafffa?style=flat&logo=Python&logoColor=51a2ff)
+  ![Python badge](https://img.shields.io/badge/Python-e8bcff?style=flat&logo=Python&logoColor=51a2ff)
 <div>
