@@ -4,6 +4,6 @@
 
 <div align="center">
   
-  ![C badge](https://img.shields.io/badge/C-e3ffc7?style=flat&logo=C&logoColor=f5f103)
+  ![C badge](https://img.shields.io/badge/C-fff7ed?style=flat&logo=C&logoColor=f5f103)
   ![Python badge](https://img.shields.io/badge/Python-eafffa?style=flat&logo=Python&logoColor=51a2ff)
 <div>
