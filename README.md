@@ -6,5 +6,5 @@
   
   ![C badge](https://img.shields.io/badge/C-cbffbe?style=flat&logo=C&logoColor=f5f103)
   ![Python badge](https://img.shields.io/badge/Python-fbffaf?style=flat&logo=Python&logoColor=51a2ff)
-  ![Markdown badge](https://img.shields.io/badge/Markdown-fbffaf?style=flat&logo=Markdown&logoColor=51a2ff)
+  ![Markdown badge](https://img.shields.io/badge/Markdown-fbffaf?style=flat&logo=Markdown&logoColor=000000)
 <div>
