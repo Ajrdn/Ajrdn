@@ -10,5 +10,5 @@
   ![Java badge](https://img.shields.io/badge/Java-DE3D3D?style=flat&logo=Java&logoColor=FFFFFF)
   ![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF)
   ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF)
-  ![Javascript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=red)
+  ![Javascript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=FFFFFF)
 <div>
