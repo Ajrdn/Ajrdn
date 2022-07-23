@@ -8,7 +8,7 @@
   ![Python badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF)
   ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=FFFFFF)
   ![Java badge](https://img.shields.io/badge/Java-DE3D3D?style=flat&logo=Java&logoColor=FFFFFF)
-  ![HTML badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=FFFFFF)
-  ![CSS badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=FFFFFF)
-  ![Javascript badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=adsf&logoColor=FFFFFF)
+  ![HTML badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML&logoColor=FFFFFF)
+  ![CSS badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS&logoColor=FFFFFF)
+  ![Javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=FFFFFF)
 <div>
